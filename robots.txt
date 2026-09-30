@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-45396-poulin-cooling-a-c-and-refrigeration/sitemap.xml
